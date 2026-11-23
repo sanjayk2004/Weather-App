@@ -1,6 +1,7 @@
 # Weather App
 
 A simple, responsive weather application built with HTML, CSS, and JavaScript. It uses the OpenWeatherMap Current Weather API to retrieve live weather information for a city entered by the user.
+Project Demo: https://weathers-ap.netlify.app
 
 ## Features
 
@@ -110,6 +111,8 @@ https://api.openweathermap.org/data/2.5/weather?units=metric&q={city}&appid={API
 - Add support for more weather conditions, including snow.
 - Add a default city or location-based weather.
 - Move API requests behind a backend to protect the API key.
+
+  Project Demo: https://weathers-ap.netlify.app
 
 ## License
 
